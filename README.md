@@ -17,12 +17,18 @@ npm install
 
 ```bash
 npm run xkcd-getter 1
+# или
+./xckd-getter 1
 ```
 
 ```bash
 npm run xkcd-getter-multi 1 2 3
+# или
+./xckd-getter-multi 1
 ```
 
 ```bash
 npm run xkcd-getter-async 1
+# или
+./xckd-getter-async 1
 ```
