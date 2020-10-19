@@ -7,7 +7,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "xkcd-getter": "./xkcd-getter.js"
+    "xkcd-getter": "./xkcd-getter.js",
+    "xkcd-getter-multi": "./xkcd-getter-multi.js",
+    "xkcd-getter-async": "./xkcd-getter-async.js"
   },
   "author": "weCodingNow",
   "license": "ISC"
