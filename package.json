@@ -1,0 +1,14 @@
+{
+  "name": "promises",
+  "version": "1.0.0",
+  "description": "some simple scripts demonstrating the use of promises",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "xkcd-getter": "./xkcd-getter.js"
+  },
+  "author": "weCodingNow",
+  "license": "ISC"
+}
